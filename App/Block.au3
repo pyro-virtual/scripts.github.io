@@ -13,7 +13,6 @@ Opt("TrayIconHide", 1)
 
 #Region #GUI#
 $ThisPcIsBlocked = GUICreate("ThisPcIsBlocked", 237, 1, 4, 43)
-GUISetIcon("C:\Users\Lilian\Desktop\Projets\Emma\App\sec2\i.ico", -1)
 GUISetState(@SW_SHOW)
 #EndRegion #GUI#
 
